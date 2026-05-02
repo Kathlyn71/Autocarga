@@ -14,11 +14,11 @@ sistema instancia únicamente la clase necesaria en ese momento.
 
 1. Clonar el repositorio:
    
-Para ejecutar el proyecto debes abrir tu terminal CMD y ve a una carpeta donde quieras guardar el proyecto
+Para ejecutar el proyecto debes abrir tu terminal CMD y ve a la carpeta www
 ejemplo
 
 ```
-cd Documents
+cd C:\wamp64\www
 ```
 una vez  dentro de la carpeta ejecuta el siguiente comando
 
@@ -55,8 +55,8 @@ composer dump-autoload
 
 ## ▶️ Pruebas de Ejecución
 
-Inicia WAMP y en el navegador busca su ubicacion:
-http://localhost/laboratorioautocarga
+Asegurarse de que WAMP esté encendido y abrir:
+http://localhost/Autocarga
 
 <img src="img2.png" width="300">
 
