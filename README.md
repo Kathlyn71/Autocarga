@@ -12,7 +12,7 @@ Este proyecto demuestra el uso de autoload en PHP utilizando Composer y el está
 Clonar el repositorio:
 
 ```
-git clone https://github.com/Kathlyn71/Autocarga-Laboratorio.git
+git clone https://github.com/Kathlyn71/LaboratorioAutocarga.git
 ```
 
 QUE HACER:
@@ -34,7 +34,7 @@ composer dump-autoload
 
 ## 📂 Estructura de los archivos
 
-<img src="images/img1.png" width="400">
+<img src="img1.png" width="400">
 
 ---
 
@@ -47,7 +47,7 @@ Entoces en el en navegador en la direccion abres:
 http://localhost/LaboratorioAutocarga/public
 ```
 
-<img src="images/img2.png" width="400">
+<img src="img2.png" width="400">
 
 ---
 
@@ -56,11 +56,11 @@ http://localhost/LaboratorioAutocarga/public
 La aplicación permite al usuario seleccionar un animal mediante una opción en pantalla.
 Según la opción elegida, el sistema instancia la clase correspondiente y muestra el sonido del animal.
 
-<img src="images/img3.png" width="400">
+<img src="img3.png" width="400">
 
 El siguiente fragmento de código demuestra cómo el sistema evalúa la opción del usuario y carga dinámicamente la clase correspondiente utilizando autoload:
 
-<img src="images/img4.png" width="400">
+<img src="img4.png" width="400">
 
 * Cuando el usuario selecciona una opción, el sistema evalúa el valor con `switch`.
 * Al crear el objeto (`new Perro()` o `new Gato()`), Composer carga automáticamente la clase necesaria.
@@ -72,12 +72,12 @@ Ejemplo de uso:
 * Opción 1 → Se selecciona **Perro**
 * Resultado: Guau
 
-<img src="images/img5.png" width="400">
+<img src="img5.png" width="400">
 
 * Opción 2 → Se selecciona **Gato**
 * Resultado: Miau
 
-<img src="images/img6.png" width="400">
+<img src="img6.png" width="400">
 
 Esto demuestra que el sistema carga dinámicamente la clase necesaria según la interacción del usuario.
 
@@ -97,8 +97,3 @@ El uso de PSR-4 facilita la organización del proyecto y el trabajo en equipo.
 
 ---
 
-## 🧹 .gitignore
-
-```
-/vendor/
-```
