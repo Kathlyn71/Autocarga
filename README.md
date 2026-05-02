@@ -12,32 +12,28 @@ sistema instancia únicamente la clase necesaria en ese momento.
 
 ## ⚙️ Guía de Instalación
 
-Para ejecutar el proyecto debes
-
 1. Clonar el repositorio:
+   
+Para ejecutar el proyecto debes abrir tu terminal CMD y ve a una carpeta donde quieras guardar el proyecto
+ejemplo
+
+```
+cd Documents
+```
+una vez  dentro de la carpeta ejecuta el siguiente comando
 
 ```
 git clone https://github.com/Kathlyn71/Autocarga
 ```
+esto creo automaticamente una carpteta llamada Autocarga con todo el proyecto
 
 2. En visual Studio Code Entrar al proyecto:
 
-```
-cd LaboratorioAutoCarga
-```
-
-3. En una terminal ejecutar el comando para Generar el autoload:
-
-```
-composer install
-```
-
-o
+3. En una terminal en Visual ejecuta el comando para Generar el autoload:
 
 ```
 composer dump-autoload
 ```
-
 
 ---
 
@@ -123,3 +119,10 @@ trabajo colaborativo y la comprensión del proyecto.
 
 
 ---
+
+👩‍🎓 Información del Estudiante
+Nombre: Kathlyn Morales 8-1002-2278
+Materia: Software 7
+Profesor: Irina Fong
+Laboratorio: Autocarga de Clases con Composer
+
