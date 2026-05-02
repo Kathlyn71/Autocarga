@@ -27,7 +27,7 @@ git clone https://github.com/Kathlyn71/Autocarga
 ```
 esto creo automaticamente una carpteta llamada Autocarga con todo el proyecto
 
-2. En visual Studio Code Entrar al proyecto:
+2. En visual Studio Code debes Entrar al proyecto: Autocarga
 
 3. En una terminal en Visual ejecuta el comando para Generar el autoload:
 
@@ -123,8 +123,11 @@ trabajo colaborativo y la comprensión del proyecto.
 ## 👩‍🎓 Información del Estudiante
 
 Nombre: Kathlyn Morales 8-1002-2278
+
 Materia: Software 7
+
 Profesor: Irina Fong
+
 Laboratorio: Autocarga de Clases con Composer
 
 ---
