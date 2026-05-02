@@ -120,9 +120,12 @@ trabajo colaborativo y la comprensión del proyecto.
 
 ---
 
-👩‍🎓 Información del Estudiante
+## 👩‍🎓 Información del Estudiante
+
 Nombre: Kathlyn Morales 8-1002-2278
 Materia: Software 7
 Profesor: Irina Fong
 Laboratorio: Autocarga de Clases con Composer
+
+---
 
